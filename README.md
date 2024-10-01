@@ -14,7 +14,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
-    <a align="center" href="https://github.com/rovadi/all-in-one-live-server">
+    <a align="center" href="https://github.com/rovaldi/all-in-one-live-server">
       <img src="all-in-one-live-server.svg" alt="All in One live server" width="120">
     </a>
     <h1 align="center">All in One live server</h1>
@@ -126,7 +126,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/rovadi/all-in-one-live-server/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/rovaldi/all-in-one-live-server/issues) for a list of proposed features (and known issues).
 
 
 
@@ -143,7 +143,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/rovadi/all-in-one-live-server/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/rovaldi/all-in-one-live-server/tags). 
 
 <!-- LICENSE -->
 ## License
@@ -157,7 +157,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Roberto Valcárcel - rovaldi.web@gmail.com
 
-Project Link: [https://github.com/rovadi/all-in-one-live-server](https://github.com/rovadi/all-in-one-live-server)
+Project Link: [https://github.com/rovadi/all-in-one-live-server](https://github.com/rovaldi/all-in-one-live-server)
 
 
 
@@ -181,16 +181,16 @@ Project Link: [https://github.com/rovadi/all-in-one-live-server](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rovadi/all-in-one-live-server.svg?style=for-the-badge
-[contributors-url]: https://github.com/rovadi/all-in-one-live-server/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rovadi/all-in-one-live-server.svg?style=for-the-badge
-[forks-url]: https://github.com/rovadi/all-in-one-live-server/network/members
-[stars-shield]: https://img.shields.io/github/stars/rovadi/all-in-one-live-server.svg?style=for-the-badge
-[stars-url]: https://github.com/rovadi/all-in-one-live-server/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rovadi/all-in-one-live-server.svg?style=for-the-badge
-[issues-url]: https://github.com/rovadi/all-in-one-live-server/issues
-[license-shield]: https://img.shields.io/github/license/rovadi/all-in-one-live-server.svg?style=for-the-badge
-[license-url]: https://github.com/rovadi/all-in-one-live-server/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/rovaldi/all-in-one-live-server.svg?style=for-the-badge
+[contributors-url]: https://github.com/rovaldi/all-in-one-live-server/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rovaldi/all-in-one-live-server.svg?style=for-the-badge
+[forks-url]: https://github.com/rovaldi/all-in-one-live-server/network/members
+[stars-shield]: https://img.shields.io/github/stars/rovaldi/all-in-one-live-server.svg?style=for-the-badge
+[stars-url]: https://github.com/rovaldi/all-in-one-live-server/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rovaldi/all-in-one-live-server.svg?style=for-the-badge
+[issues-url]: https://github.com/rovaldi/all-in-one-live-server/issues
+[license-shield]: https://img.shields.io/github/license/rovaldi/all-in-one-live-server.svg?style=for-the-badge
+[license-url]: https://github.com/rovaldi/all-in-one-live-server/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/valcarcel-webdesigner/
+[linkedin-url]: https://www.linkedin.com/in/valcarcel-frontend-guy/
 [product-screenshot]: images/screenshot.png
