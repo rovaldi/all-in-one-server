@@ -150,16 +150,12 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
 ## Contact
 
 Roberto Valcárcel - rovaldi.web@gmail.com
 
-Project Link: [https://github.com/rovaldi/all-in-one-live-server](https://github.com/rovaldi/all-in-one-live-server)
-
-
+Project Link: [https://github.com/rovaldi/all-in-one-server](https://github.com/rovaldi/all-in-one-server)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
