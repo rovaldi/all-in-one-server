@@ -157,7 +157,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Roberto Valcárcel - rovaldi.web@gmail.com
 
-Project Link: [https://github.com/rovadi/all-in-one-live-server](https://github.com/rovaldi/all-in-one-live-server)
+Project Link: [https://github.com/rovaldi/all-in-one-live-server](https://github.com/rovaldi/all-in-one-live-server)
 
 
 
